@@ -25,11 +25,11 @@
     },
     {
         "title": "In GSC, the stationary phase is ………………….",
-        "answer-1": " active gas",
-        "answer-2": "solid",
+        "answer-1": "active gas",
+        "answer-2": " solid",
         "answer-3": "liquid",
         "answer-4": "inert carrier gas",
-        "rt-answer": "solid"
+        "rt-answer": " solid "
     },
     {
         "title": "The first component that elutes from size exclusion column is the ............... one.",
@@ -38,5 +38,133 @@
         "answer-3": "highly ionized",
         "answer-4": "largest",
         "rt-answer": "largest"
+    },
+    {
+        "title": "Water-soluble biological materials are commonly separated by............... chromatography based on the difference of their molecular size.",
+        "answer-1": "gel filtration",
+        "answer-2": "ion exchange",
+        "answer-3": " affinity",
+        "answer-4": "gel permeation",
+        "rt-answer": "gel filtration"
+    },
+    {
+        "title": "Column packing can affect......... .",
+        "answer-1": "eddy diffusion",
+        "answer-2": " resistance to mass transfer",
+        "answer-3": "  longitudinal diffusion",
+        "answer-4": "all",
+        "rt-answer": "all"
+    },
+    {
+        "title": "An advantages of using column efficiency to check the chromatographic performance.",
+        "answer-1": "It can be calculated with single peak",
+        "answer-2": " Retention time is not needed in its calculation",
+        "answer-3": "  It can be used to calculate selectivity",
+        "answer-4": " all",
+        "rt-answer": "It can be calculated with single peak"
+    },
+    {
+        "title": "The suitable gas in capillary gas chromatography is.......",
+        "answer-1": "oxygen",
+        "answer-2": " argon",
+        "answer-3": "  nitrogen",
+        "answer-4": "helium",
+        "rt-answer": "helium"
+    },
+    {
+        "title": "At very low flow rate, plate height is mainly affected by ……………… .",
+        "answer-1": "eddy diffusion",
+        "answer-2": " resistance to mass transfer",
+        "answer-3": "  longitudinal diffusion",
+        "answer-4": "all",
+        "rt-answer": "longitudinal diffusion"
+    },
+    {
+        "title": "Eddy diffusion can be reduced by.......... .",
+        "answer-1": "decreasing the stationary phase thickness ",
+        "answer-2": "increasing velocity of mobile phase.",
+        "answer-3": "using uniform particle size packing material",
+        "answer-4": "both a and b",
+        "rt-answer": "using uniform particle size packing material"
+    },
+    {
+        "title": "The mobile phase moves through the stationary phase in TLC under the effect of ……… .",
+        "answer-1": "pressure",
+        "answer-2": "  gravity",
+        "answer-3": "capillary action",
+        "answer-4": "   osmotic pressure",
+        "rt-answer": "capillary action"
+    },
+    {
+        "title": "In visualization of TLC plate with UV, the analyte appears as ………… spot.",
+        "answer-1": " dark ",
+        "answer-2": "orange",
+        "answer-3": "fluorescent",
+        "answer-4": "yellow",
+        "rt-answer": "dark"
+    },
+    {
+        "title": "TLC plate containing Keiselguhr G coated with liquid paraffin is used for the analysis of.......",
+        "answer-1": "diatoms earth",
+        "answer-2": "fixed oil",
+        "answer-3": "sugars",
+        "answer-4": "tetracycline",
+        "rt-answer": "fixed oil"
+    },
+    {
+        "title": "Densitometer is a device that can enable the use of ………….. in quantitative analysis",
+        "answer-1": "HPLC",
+        "answer-2": "TLC",
+        "answer-3": "GC",
+        "answer-4": "open column",
+        "rt-answer": "TLC"
+    },
+    {
+        "title": "HPLC is more …….. than TLC.",
+        "answer-1": "flexible",
+        "answer-2": "sensitive",
+        "answer-3": "cheap",
+        "answer-4": "robust",
+        "rt-answer": "sensitive"
+    },
+    {
+        "title": "The stationary phase in capillary GC column …………………. the column.",
+        "answer-1": "cover the inner wall of",
+        "answer-2": "is filled on",
+        "answer-3": "is not present in",
+        "answer-4": "none",
+        "rt-answer": "cover the inner wall of"
+    },
+    {
+        "title": "The mobile phase in gas chromatography is ……………..compared to HPLC",
+        "answer-1": "environmentally safe",
+        "answer-2": "expensive if helium is used",
+        "answer-3": "vary from run to run",
+        "answer-4": "all",
+        "rt-answer": "environmentally safe"
+    },
+    {
+        "title": "The most common GC detector is …………detector",
+        "answer-1": "electron capture",
+        "answer-2": "flame ionization",
+        "answer-3": "thermal conductivity",
+        "answer-4": "UV",
+        "rt-answer": "flame ionization"
+    },
+    {
+        "title": "The material of packed GC column is made from ……………",
+        "answer-1": "aluminum",
+        "answer-2": "polyimide",
+        "answer-3": "fused silica",
+        "answer-4": "silanized glass",
+        "rt-answer": "silanized glass"
+    },
+    {
+        "title": "The compounds that can be analyzed with GC should be …………. thermally labile",
+        "answer-1": "non volatile",
+        "answer-2": "volatile",
+        "answer-3": "volatile and non",
+        "answer-4": "No Answer Correct",
+        "rt-answer": "volatile"
     }
 ]
